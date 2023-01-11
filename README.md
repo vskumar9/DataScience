@@ -1,6 +1,6 @@
 - 👋 Hi, I’m v sanjeev kumar
 - 👀 I’m interested in python programming, web development, AI
-- 🌱 I’m currently learning python libraries, AI
+- 🌱 I’m currently learning python libraries, AI, ReactJS 
 - 💞️ I’m looking to collaborate on.....
 - 📫 How to reach me contact mail id vaddisanjeevkumar9676@gmail.com
 
